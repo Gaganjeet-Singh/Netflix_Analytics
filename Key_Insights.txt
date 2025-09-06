@@ -1,0 +1,37 @@
+*** Key Insights from Netflix Analytics ***
+
+
+-------------------------------------------
+1. Top Country for Content Production
+-------------------------------------------
+
+* Movies: The United States is the top country with the most movies, contributing over 1,750 titles.
+* TV Shows: The United States also leads in TV Show production, with over 25 shows listed in the top 5 countries.
+
+
+-------------------------------------------
+2. Most Prolific Directors
+-------------------------------------------
+
+* The directors with the most titles on Netflix are Raúl Campos and Jan Suter.
+
+
+-------------------------------------------
+3. Peak Year for Content Addition
+-------------------------------------------
+
+* The year 2019 saw the highest number of movies and TV shows added to the Netflix platform.
+
+
+-------------------------------------------
+4. Common Distribution of Movies
+-------------------------------------------
+
+* The most common movie duration is between 90 and 100 minutes, which is the standard length for a feature film.
+
+
+-------------------------------------------
+5. Common Distribution of TV Shows
+-------------------------------------------
+
+* According to the chart, the most common number of seasons for a TV show on the platform is 2 seasons.
